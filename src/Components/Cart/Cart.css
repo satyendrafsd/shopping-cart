@@ -1,0 +1,26 @@
+.cart-container{
+    width: 25%;
+    padding: 1rem;
+}
+
+.cart{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cart > img{
+    width: 100px;
+    height:60px;
+    
+}
+
+.btn-container > input{
+    width: 35px;
+    height: 39px;
+    padding: 0 5px;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid #efefef;
+
+}
